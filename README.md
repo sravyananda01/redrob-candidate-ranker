@@ -52,4 +52,4 @@ This dynamically scales up highly engaged candidates while penalizing profiles w
 3. **Scoring Core:** Evaluates technical competency overlap and tenure matrices.
 4. **Behavioral Tuning:** Adjusts ranking order based on platform engagement.
 5. **Output Export:** Generates the completely sorted, structured spreadsheet output.
-6.
+
